@@ -55,7 +55,7 @@ proxy: null
 
 # can also be specified as the 'DATABASE_URL' or 'DB_URI' environment variable
 # defaults to 'postgresql://localhost/gavel'
-db_uri: postgresql://postgres:g5e3EaggB*2GCCb36cACf3f2adBcB2Ed@roundhouse.proxy.rlwy.net:51415/railway
+db_uri: postgresql://postgres:EF444A*BA5eeea2e2FG*B-2bBgfgbFf1@roundhouse.proxy.rlwy.net:46561/railway
 
 # can also be specified as the 'REDIS_URL' or 'BROKER_URI' environment variable
 # defaults to 'redis://localhost:6379/0'
@@ -174,7 +174,7 @@ email_subject: Test
 # spaces, and text separated by two or more newlines is converted into separate
 # paragraphs. it's recommended to use the YAML multiline string syntax when
 # overriding this.
-email_body: "Hello {name}! this is a test for judging use this link: {link}"
+email_body: 'Hello {name}! this is a test for judging use this link: {link}'
 
 # can also be specified as the 'SEND_STATS' environment variable
 # defaults to 'True'
